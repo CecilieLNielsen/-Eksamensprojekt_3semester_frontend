@@ -1,23 +1,22 @@
-# Getting Started with Eksamen_Startkode_Frontend
-by Cecilie
+# Eksamensprojekt_3semester_frontend
+by Cecilie Langsø Nielsen, cph-cn274@cphbusiness.dk
 
-## Setup
-1. Git clone the project.
-2. Delete the .git fil.
-3. Create new git repo and follow instructions there.
+## Important links
+- [Deployed version on Surge.sh](https://bycecilie.surge.sh)
+- [Backend Github repository](https://github.com/CecilieLNielsen/Eksamensprojekt_3semester_backend)
 
-4. Change baseURL in settings.js if nescessary.
-5. Run npm start - for more info look under available scripts.
-6. Make changes to project.
+## Run local
+1. Run `npm start`
 
-7. Run 'npm run build'.
-8. Deploy with Surge. 
+## Deploy to surge
+1. Run `npm run build`
+2. Deploy with Surge - `TODO`. 
 
 ## Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -25,7 +24,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the `build` folder.\
 It correctly bundles React in production mode and optimizes the build for the best performance.
