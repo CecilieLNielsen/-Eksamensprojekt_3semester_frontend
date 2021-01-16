@@ -1,2 +1,2 @@
 
-export const baseURL = "http://localhost:8080/jpareststarter";
+export const baseURL = "https://bycecilie.dk/Eksamensprojekt_3semester_backend/";

@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react"
 import { Route, NavLink, Switch } from "react-router-dom";
 import facade from "./loginFacade";
 import demoFacade from "./demoFacade";
-import './NavbarStyle.css';
+import './css/navbarStyle.css';
 
 const Header = () => {
   return (
