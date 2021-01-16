@@ -10,7 +10,7 @@ by Cecilie Langsø Nielsen, cph-cn274@cphbusiness.dk
 
 ## Deploy to surge
 1. Run `npm run build`
-2. Deploy with Surge - `TODO`. 
+2. Deploy with Surge `surge --project ./build --domain bycecilie.surge.sh`. 
 
 ## Available Scripts
 
