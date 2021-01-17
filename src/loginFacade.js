@@ -1,4 +1,4 @@
-import {baseURL} from "./settings"
+import {baseURL} from "./settings";
 
 function handleHttpErrors(res) {
     if (!res.ok) {

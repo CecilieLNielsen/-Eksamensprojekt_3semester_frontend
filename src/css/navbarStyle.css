@@ -3,7 +3,7 @@ ul.header {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: rgb(115, 181, 207);
 }
 
 ul.header li {
@@ -19,9 +19,9 @@ ul.header li a {
 }
 
 ul.header li a:hover:not(.active) {
-    background-color: #111;
+    background-color:  rgb(190, 221, 233);
 }
 
 .active {
-    background-color: #4CAF50;
+    background-color: rgb(87, 175, 209);
 }
